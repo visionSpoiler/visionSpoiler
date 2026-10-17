@@ -30,7 +30,7 @@ AI를 개발 도구로 적극 활용하면서, 생성된 코드의 작동 원리
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express, NestJS
 - **Database/Infra:** PostgreSQL, AWS, Docker, Jenkins, Redis, Kafka
-- **Languages:** JavaScript, Python (학습 중)
+- **Languages:** JavaScript, Python
 - **Tools:** GitHub, VS Code, AI Coding Tools
 
 ---
