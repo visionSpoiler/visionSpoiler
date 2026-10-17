@@ -20,30 +20,18 @@ AI를 개발 도구로 적극 활용하면서, 생성된 코드의 작동 원리
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express, NestJS
-- **Database/Infra:** PostgreSQL, AWS (기초)
+- **Database/Infra:** PostgreSQL, AWS, Docker, Jenkins, Redis, Kafka
 - **Languages:** JavaScript, Python (학습 중)
 - **Tools:** GitHub, VS Code, AI Coding Tools
-
----
-
-## 🧩 경험해본 기술 (복습 예정)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-이전에 다듬어 본 적이 있지만 시간이 지나 기억이 희미해져, 다시 복습하며 정리해나가려고 합니다.
-
-- **Docker:** 컸테이너 기반 배포 환경 구성
-- **Jenkins:** CI/CD 파이프라인 구축
-- **Redis:** 캐싱 및 세션 저장소 활용
-- **Kafka:** 메시지 큐잉/이벤트 스트리밍 기초
 
 ---
 
@@ -63,7 +51,6 @@ AI를 개발 도구로 적극 활용하면서, 생성된 코드의 작동 원리
 - TypeScript 심화 학습
 - SQL과 데이터베이스 설계 심화
 - AWS 클라우드 인프라 심화 학습
-- Docker/Jenkins/Redis/Kafka 복습 및 재정립
 - AI API를 활용한 웹 서비스 개발
 
 ---
